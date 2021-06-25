@@ -1,11 +1,7 @@
 # ひつじわぷー / Sheep Wapuu
 ひつじだいすき!! / I love sheep!!  
 
-<div style="background-color: #ffffff">
-
 ![sheep-wapuu](sheep-wapuu.png)
-
-</div>
 
 データ / Data : PNG, SVG(RGB), PDF(RGB)
 
