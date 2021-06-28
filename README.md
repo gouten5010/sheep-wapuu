@@ -15,8 +15,9 @@
 This is the data file of maiko-wapuu. Wapuu is licensed under GNU General Public License v2 or later. It's same as WordPress software. You can use in a plugin or theme.  
 Wapuu's copyright is reserved by Kazuko Kaneuchi.
 
+* [わぷー / Wapuu](http://ja.wordpress.org/about-wp-ja/wapuu/)
+* [わぷーアーカイブ / Wapuu Archive](https://jawordpressorg.github.io/wapuu/)
+
 ---
 
-* [わぷー（Wapuu）](http://ja.wordpress.org/about-wp-ja/wapuu/)
-* [わぷーアーカイブ](https://jawordpressorg.github.io/wapuu/)
 * Twitter: [@gouten5010](https://twitter.com/gouten5010)
